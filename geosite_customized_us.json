@@ -6,7 +6,8 @@
         "notebooklm.google"
       ],
       "domain_suffix": [
-        "tradingview.com"
+        "tradingview.com",
+        "datastage.cn"        
       ]
     }
   ]
