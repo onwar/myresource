@@ -3,11 +3,10 @@
   "rules": [
     {
       "domain": [
-        "notebooklm.google"
+        "streetstats.finance"
       ],
       "domain_suffix": [
-        "tradingview.com",
-        "datastage.cn"        
+        "technews.tw"        
       ]
     }
   ]
