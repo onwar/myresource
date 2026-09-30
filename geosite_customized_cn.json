@@ -3,27 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "phfund.com.cn",
-        "phfund.net",
-        "phfund.com",
-        "phfund.net",
-        "wind.com.cn",
-        "tp-link.com",
-        "tplinkcloud.com.cn",
-        "tp-link.com.cn",
-        "alikunlun.com",
-        "hdlcontrol.com",
-        "tencent-cloud.net",
-        "atianqi.com",
-        "anker.com.cn",
-        "kunluncan.com",
-        "aliyuncs.com",
-        "qianxun.com",
-        "anker.com",
-        "12306.cn",
-        "linkplay.com",
-        "paic.com.cn",
-        "haitong.com",
         "wallstreetcn.com"
       ]
     }
